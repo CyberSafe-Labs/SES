@@ -1,3 +1,7 @@
+## © 2021 CyberSafe Labs, Inc.
+## © 2021 Aditya Patil.
+## The Above Copyright Notice Should Remain in all versions of this file.
+
 import pandas as pd
 
 encryptionkey = pd.read_csv(r"decodekeynew.csv",
