@@ -1,5 +1,5 @@
 # SES
-SES (Secure Encryption Standard) is a secure and open source Encryption Protocol written in Python. Currently Under Development.
+SES (Secure Encryption Standard) is a secure and open source Encryption Protocol written in Python.
 
 ## Usage
 ```shell script
