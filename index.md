@@ -3,7 +3,7 @@
 SES (Secure Encryption Standard) is a secure and open source Encryption Protocol written in Python.
 
 ## Usage
-```shell script
+```
 git clone https://github.com/CyberSafe-Labs/SES.git
 cd SES
 python3 SES.py
