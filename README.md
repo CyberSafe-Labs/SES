@@ -10,7 +10,11 @@ python3 SES.py
 
 ## Troubleshooting
 <br>
-If you get a error saying "inconsistent use of tabs and spaces in indentation" run ```pip install autopep8``` then ```autopep8 -i SES.py```
+If you get a error saying "inconsistent use of tabs and spaces in indentation" run: 
+
+```shell script
+pip install autopep8
+autopep8 -i SES.py```
 
 ## Credits
 Aditya Patil, Developer, Researcher and Maintainer.
